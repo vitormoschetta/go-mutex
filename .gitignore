@@ -1,1 +1,2 @@
-.pre-commit*
+*.out
+.pre-commit-config.yaml
